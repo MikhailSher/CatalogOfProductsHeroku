@@ -1,0 +1,15 @@
+ru\mvc\interceptors\Authorization.class
+ru\mvc\forms\UserForm.class
+ru\mvc\models\User$UserBuilder.class
+ru\mvc\interceptors\FindProduct.class
+ru\mvc\repositories\ProductsRepository.class
+ru\mvc\controllers\ErrorController.class
+ru\mvc\models\User.class
+ru\mvc\controllers\ControllerForProductList.class
+ru\mvc\repositories\UsersRepository.class
+ru\mvc\interceptors\AuthorizationAlready.class
+ru\mvc\models\Product$ProductBuilder.class
+ru\mvc\models\Product.class
+ru\mvc\controllers\ProductsController.class
+ru\mvc\controllers\ControllerToAccess.class
+ru\mvc\config\ConfigJpa.class
